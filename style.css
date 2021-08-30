@@ -1,13 +1,11 @@
-body {
-    text-align: center;
-}
-
 h1 {
     color: crimson;
+    text-align: center
 }
 
 h2 {
-    color: purple;    
+    color: purple;
+    text-align: center;
 }
 
 h3 {
@@ -18,6 +16,11 @@ a {
     padding-right: 5px;
 }
 
+nav {
+    text-align: center;
+}
+
 li {
     list-style-position: inside;
+    text-align: center
 }
