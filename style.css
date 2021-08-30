@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: crimson;
+}
+
+h2 {
+    color: purple;    
+}
+
+h3 {
+    color: salmon;
+}
+
+a {
+    padding-right: 5px;
+}
+
+li {
+    list-style-position: inside;
+}
